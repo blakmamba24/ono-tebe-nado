@@ -212,9 +212,8 @@
 
 .lots__card-list-item {
   flex-grow: 1;
-  max-width: 430px;
+  width: 430px;
   min-height: 450px;
-
 }
 
 .card-link {
